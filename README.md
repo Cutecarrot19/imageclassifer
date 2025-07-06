@@ -95,6 +95,4 @@ Created as a personal ML project to learn computer vision.
 
 ---
 
-## 📎 License
 
-This project is open-source and available under the [MIT License](LICENSE).
